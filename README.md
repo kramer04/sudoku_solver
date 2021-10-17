@@ -1,2 +1,2 @@
 # sudoku_solver
-Solver de sudoku
+Solver de sudoku : grille 9x9
